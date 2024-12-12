@@ -19,6 +19,8 @@ I’m **Elhoucine Elachguar**
 
 - [🌐 **Online Blog Project**](https://github.com/horese07/blog-project): A PHP-based blog application with MVC architecture, allowing users to create, edit, and manage posts.
 - [🤖 **NinjaFood**](https://horese07.github.io/pp/): A Progressive Web Application (PWA) for discovering food recipes, featuring dynamic search and user preferences.
+- [🤖 **handwrittenNumbers**](https://colab.research.google.com/drive/1NwtIV7Lop5QlFXUd4BiZ0WwCCQypjHg3?authuser=2):  a deep learning model using TensorFlow to read handwritten numbers from manuscripts.
+- [
 
 ---
 
